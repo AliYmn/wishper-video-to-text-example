@@ -1,0 +1,1 @@
+# wishper-video-to-text-exampel
